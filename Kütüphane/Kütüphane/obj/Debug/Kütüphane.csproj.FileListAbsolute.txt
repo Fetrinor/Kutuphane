@@ -1,0 +1,17 @@
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Kütüphane.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.cache
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.AddBook.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.RemoveBook.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ChangeBook.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.RentBook.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.SellBook.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ShowRentList.resources
+C:\Users\Joseph\Desktop\Kütüphane\Kütüphane\obj\Debug\Kütüphane.ShowSellList.resources
